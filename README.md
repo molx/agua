@@ -1,3 +1,3 @@
 # agua
 
-Visite [www.alanmol.com.br/agua](www.alanmol.com.br/agua).
+Visite [http://www.alanmol.com.br/agua](http://www.alanmol.com.br/agua).
